@@ -1,4 +1,4 @@
 pythonprojects
 ==============
 
-repo for my own projects
+repo for *my* own projects
